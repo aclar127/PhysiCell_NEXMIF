@@ -14,6 +14,7 @@ pmb_debug.log
 studio_debug.log
 user_projects/*
 !user_projects/empty.txt
+!user_projects/SOM_proxy
 
 project*
 Studio.zip
