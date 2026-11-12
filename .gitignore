@@ -15,6 +15,7 @@ studio_debug.log
 user_projects/*
 !user_projects/empty.txt
 !user_projects/SOM_proxy
+/output/
 
 project*
 Studio.zip
@@ -53,3 +54,4 @@ Studio.zip
 /unit_tests
 /test_custom_DCs
 /test_voxel_values
+/addons/libRoadrunner/roadrunner_manylinux.zip
